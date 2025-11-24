@@ -224,34 +224,49 @@ Professor Wang has published more than 50 papers in IEEE Transactions journals a
 </div>
 
 ## Collaborators
-<div class="profile-intro">
-Below are the core students and faculty collaborators from our team. You are welcome to reach out to them for potential collaborations. Interns are not listed here—however, we warmly welcome motivated individuals to join us!
-</div>
-Faculty
-Bi Zhang, Shenyang Institute of Automation, Rehabilitation Exoskeleton Robot
-Xiao Zhang, Tianjin University，Origami Engineering
-Yanggang Feng, Beihang University，Wearable Robot
-Guotao Li,Institute of Automation, Chinese Academy of Sciences (CAS)，Exoskeleton Robot
-</div>
-Doctor
-Qinggang Ge, Zongyu Wang, Mai Shi, Lei Xue, Peking University Third Hospital,Respiratory and Critical Care Medicine
-Shu Li, Peking University People’s Hospital, Respiratory Function in Trauma Patients 
-Dan Huang, Xiaotangshan Hospital, Hypoxic Respiration
-Xiaoxuan Liu, Peking University Third Hospital, ALS
+<section class="profile-intro">
+  <p>
+    Below are the core students and faculty collaborators from our team. You are welcome to reach out to them for potential collaborations. 
+    Interns are not listed here—however, we warmly welcome motivated individuals to join us!
+  </p>
+</section>
 
-</div>
+<section>
+  <h2>Faculty</h2>
+  <ul>
+    <li>Bi Zhang, Shenyang Institute of Automation — Rehabilitation Exoskeleton Robot</li>
+    <li>Xiao Zhang, Tianjin University — Origami Engineering</li>
+    <li>Yanggang Feng, Beihang University — Wearable Robot</li>
+    <li>Guotao Li, Institute of Automation, Chinese Academy of Sciences (CAS) — Exoskeleton Robot</li>
+  </ul>
+</section>
 
-Master Student
-Bin Zhao, master students at Beihang University, majoring in Robotic Engineering, research on robotic system and CFDA compliance.
-Dinghao Xue, master students at Beihang University, majoring in Robotic Engineering, research on robtoic control.
-</div>
-Undergraduate 
-Xiyan Ma, Jiarui Wei, and Xintian Chen, undergraduate students at Beihang University, majoring in Biomedical Engineering, working on the clinical efficacy validation.
-Yingheng Zhao, Xuanzi Guo, undergraduate students at Beihang University, majoring in Robotics Engineering and working on soft robotics.
+<section>
+  <h2>Doctor</h2>
+  <ul>
+    <li>Qinggang Ge, Zongyu Wang, Mai Shi, Lei Xue, Peking University Third Hospital — Respiratory and Critical Care Medicine</li>
+    <li>Shu Li, Peking University People’s Hospital — Respiratory Function in Trauma Patients</li>
+    <li>Dan Huang, Xiaotangshan Hospital — Hypoxic Respiration</li>
+    <li>Xiaoxuan Liu, Peking University Third Hospital — ALS</li>
+  </ul>
+</section>
 
+<section>
+  <h2>Master Students</h2>
+  <ul>
+    <li>Bin Zhao, Beihang University — Robotic Engineering, research on robotic systems and CFDA compliance</li>
+    <li>Dinghao Xue, Beihang University — Robotic Engineering, research on robotic control</li>
+  </ul>
+</section>
 
+<section>
+  <h2>Undergraduate</h2>
+  <ul>
+    <li>Xiyan Ma, Jiarui Wei, Xintian Chen — Beihang University, Biomedical Engineering, clinical efficacy validation</li>
+    <li>Yingheng Zhao, Xuanzi Guo — Beihang University, Robotics Engineering, soft robotics research</li>
+  </ul>
+</section>
 
-</div>
 
 
 ## News
