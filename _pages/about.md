@@ -238,7 +238,7 @@ Qinggang Ge, Zongyu Wang, Mai Shi, Lei Xue, Peking University Third Hospital,Res
 Shu Li, Peking University People’s Hospital, Respiratory Function in Trauma Patients 
 Dan Huang, Xiaotangshan Hospital, Hypoxic Respiration
 Xiaoxuan Liu, Peking University Third Hospital, ALS
-Hongmei Zhao, China–Japan Friendship Hospital, COPD
+
 </div>
 
 Master Student
